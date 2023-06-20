@@ -5,3 +5,6 @@
 - 쇼츠 popupmenubutton 위치 설정 못함
 
 ## 화면
+
+<img width="406" alt="스크린샷 2023-06-20 오후 7 21 31" src="https://github.com/blueknarr/youtube_clone/assets/44389424/4454e6da-952c-4dc9-a8d3-c219bd661920">
+<img width="404" alt="스크린샷 2023-06-20 오후 7 21 46" src="https://github.com/blueknarr/youtube_clone/assets/44389424/0ecdedbe-7261-4c56-bc5e-32514ef554ba">
